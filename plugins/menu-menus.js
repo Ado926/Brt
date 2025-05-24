@@ -27,9 +27,8 @@ let tags = {
 const defaultMenu = {
   before: `
 ╭────｡ﾟ･:❀:･ﾟ｡─────╮
-      һ᥆ᥣіі *%name*-chan~  
-"Hoy brillas más que una estrellita fugaz~"  
-Mai está muy feliz de verte por aquí, nyan~  
+      һ᥆ᥣіі *%name* 💘
+  Bienvenid@
 ╰────｡ﾟ･:❀:･ﾟ｡─────╯
 
 ╭─♡─「 մsҽɾ íղբօ」─♡─╮
@@ -52,7 +51,7 @@ Mai está muy feliz de verte por aquí, nyan~
 %readmore
 ｡ﾟ･:❀ ¡Gracias por invocar a Mai~! ❀:･ﾟ｡
 
-\t    🧁 *Menú mágico a continuación* 🧁
+\t   🧁 *Menú a continuación* 🧁
 `.trimStart(),
 
   header: '\n╭───୨୧「 *%category* 」୨୧───╮',
