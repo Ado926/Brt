@@ -40,9 +40,9 @@ const defaultMenu = {
 │  ⌦ ⚓ Rango adorable: *%role*
 ╰───────────────❀
 
-╭──❀「 Info del botcito~ 」❀──
-│  ⌦ 👑 Creador Alba070503
-│  ⌦ 🌸 Soy yo, *HokaruBot-MD* ❀
+╭──❀「 Info de la botsita 」❀──
+│  ⌦ 👑 Creador Wirk
+│  ⌦ 🌸 Soy *Mai* ❀
 │  ⌦ ⏰ Tiempo despierta: *%muptime*
 │  ⌦ 📇 Amiguit@s registrados: *%totalreg*
 │  ⌦ 💥 Versión mágica: *%version*
@@ -50,7 +50,7 @@ const defaultMenu = {
 ╰───────────────❀
 
 %readmore
-*—̳͟͞͞❀ Gracias por visitarme, nyan~ ❀—̳͟͞͞*
+*—̳͟͞͞❀ Gracias por visitarme, jsjs ❀—̳͟͞͞*
 
 \t\t\t*L I S T A  -  M E N Ú S*
 `.trimStart(),
