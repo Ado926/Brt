@@ -80,7 +80,7 @@ global.redes = [nna, nna2, yt, nn, nnn, nnnt, nnntt, nnnttt, nnntttt, md, tiktok
 
 //------------------------[ Info | Datos ]---------------------------
 
-global.wait = '❀ Espérame tantito~ estoy haciendo magia kawaii ❀\n\n> *❀ Porfis no hagas spam, que me asusto~ ❀*'
+global.wait = '❀ Espérame tantito~ ❀\n\n> *❀ Porfis no hagas spam, que me asusto~ ❀*'
 global.waitt = '*❀ Cargando con ternura... ▬▬▭▭▭*'
 global.waittt = '*❀ Cargando con ternura... ▬▬▬▬▭▭*'
 global.waitttt = '*❀ Cargando con ternura... ▬▬▬▬▬▬▭*'
@@ -122,15 +122,8 @@ global.maxwarn = '4' // máxima advertencias
 //---------------[ IDs de canales ]----------------
 
 global.ch = {
-ch1: '120363198641161536@newsletter', 
-ch2: '120363198641161536@newsletter', 
-ch3: '120363198641161536@newsletter',
-ch4: '120363198641161536@newsletter',
-ch5: '120363198641161536@newsletter', 
-ch6: '120363198641161536@newsletter',
-ch7: '120363198641161536@newsletter',  
-ch8: '120363198641161536@newsletter',
-ch9: '120363198641161536@newsletter',
+ch1: '120363402846939411@newsletter', 
+ch2: '120363402846939411@newsletter', 
 }
 
 //----------------------------------------------------
