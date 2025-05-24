@@ -26,14 +26,14 @@ let tags = {
 
 const defaultMenu = {
   before: `
-╭───────｡ﾟ･:❀:･ﾟ｡─────────╮
+╭────｡ﾟ･:❀:･ﾟ｡─────╮
       һ᥆ᥣіі *%name*-chan~  
 "Hoy brillas más que una estrellita fugaz~"  
 Mai está muy feliz de verte por aquí, nyan~  
-╰──────｡ﾟ･:❀:･ﾟ｡─────────╯
+╰────｡ﾟ･:❀:･ﾟ｡─────╯
 
 ╭─♡─「 մsҽɾ íղբօ」─♡─╮
-│ 💖 Nombre: *%name*-chan
+│ 💖 Nombre: *%name* 
 │ ⚡ Energía: *%exp* pts
 │ ✨ Estrellitas: *%limit*
 │ 🌸 Nivel: *%level*
@@ -41,12 +41,12 @@ Mai está muy feliz de verte por aquí, nyan~
 ╰──────────────────╯
 
 ╭─♡─「 mᥲі іᥒ𝖿᥆ ─♡─╮
-│ ☁️ Creador: Wirk-sempai
-│ 🌷 Soy tu botcita: *Mai*
-│ ⏳ Tiempo activa: *%muptime*
-│ 📒 Amiguit@s: *%totalreg*
-│ 💫 Versión: *%version*
-│ 📅 Fecha: *%date*
+│ ☁️ *Creador:* Wirk 💗
+│ 🌷 *Soy tu botcita:* Mai
+│ ⏳ *Tiempo activa:* %muptime
+│ 📒 *Total Registrados:* %totalreg
+│ 💫 *Versión:* %version
+│ 📅 *Fecha:* %date
 ╰─────────────────╯
 
 %readmore
