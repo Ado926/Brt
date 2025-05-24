@@ -112,7 +112,7 @@ global.imagen6 = 'https://files.catbox.moe/lp0r2h.jpg'
 global.menu18 = 'https://files.catbox.moe/s5p436.jpg'
 global.vid1 = 'https://files.catbox.moe/5gw9u2.mp4'
 global.img = [imagen, imagen1, imagen2, imagen3, imagen4]
-global.imageUrl = ["hhttps://qu.ax/vmBSN.jpg", "https://qu.ax/vmBSN.jpg, "https://qu.ax/vmBSN.jpg"]
+global.imageUrl = ["https://qu.ax/vmBSN.jpg", "https://qu.ax/vmBSN.jpg, "https://qu.ax/vmBSN.jpg"]
 
 //----------------------------[ NIVELES | RPG ]---------------------------------
 
