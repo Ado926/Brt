@@ -11,7 +11,7 @@ import { tr, translateText } from './lib/_checkLang.js';
 //---------[ Añada los numeros a ser Propietario/a ]---------
 
 global.owner = [
-["59175655964", 'Onwer Alba070503', true], //ShizukaBot-MD 💙
+["50493732693", 'Owner Wirk', true], //ShizukaBot-MD 💙
 ["59169082575"], 
 ["59169214837"],
 ["5218715746374"],
@@ -54,11 +54,11 @@ global.moment = moment
 
 //------------------------[ Stickers ]-----------------------------
 
-global.packname = `✿MomoAyaseBot-MD✿` //"Powered @Alba070503"
-global.author = `✿Powered @Alba070503✿` //"coloca tu nombre "
+global.packname = `✿ MomoAyaseBot-MD ✿` //"Powered @Alba070503"
+global.author = `✿ Powered By Wirk ✿` //"coloca tu nombre "
 //------------[ Versión | Nombre | cuentas ]------------
 
-global.wm = 'KoharuBot-MD' 
+global.wm = 'Mai ☔' 
 global.vs = '2.3.0'
 global.yt = 'https://www.youtube.com/@Alba070503'
 global.tiktok = 'https://www.tiktok.com/@Alba070503'
