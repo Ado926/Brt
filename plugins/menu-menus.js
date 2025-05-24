@@ -26,38 +26,39 @@ let tags = {
 
 const defaultMenu = {
   before: `
-*---------------------*
+╭───────────────｡ﾟ･:❀:･ﾟ｡───────────────╮
+      һ᥆ᥣіі *%name*-chan~  
+"Hoy brillas más que una estrellita fugaz~"  
+Mai está muy feliz de verte por aquí, nyan~  
+╰───────────────｡ﾟ･:❀:･ﾟ｡───────────────╯
 
-*—̳͟͞͞❀ Bienvenid@ pequeñit@ ❀—̳͟͞͞*
+╭─♡─「 մsҽɾ íղբօ」─♡─╮
+│ 💖 Nombre: *%name*-chan
+│ ⚡ Energía: *%exp* pts
+│ ✨ Estrellitas: *%limit*
+│ 🌸 Nivel: *%level*
+│ ♡ Rango: *%role*
+╰─────────────────────╯
 
-“ Konnichiwa *%name*-chan~ ¿Cómo está tu corazoncito hoy? Espero que tu día esté tan brillante como una estrellita ❀ ”
-
-╭──❀「 Info de Usuario 」❀──
-│  ⌦ 💌 Nombre: *%name*-chan
-│  ⌦ ⚡ Energía mágica (Exp): *%exp*
-│  ⌦ ✨ Estrellitas guardadas: *%limit*
-│  ⌦ 🐢 Nivel de ternura: *%level*
-│  ⌦ ⚓ Rango adorable: *%role*
-╰───────────────❀
-
-╭──❀「 Info de la botsita 」❀──
-│  ⌦ 👑 Creador Wirk
-│  ⌦ 🌸 Soy *Mai* ❀
-│  ⌦ ⏰ Tiempo despierta: *%muptime*
-│  ⌦ 📇 Amiguit@s registrados: *%totalreg*
-│  ⌦ 💥 Versión mágica: *%version*
-│  ⌦ 📆 Fechita bonita: *%date*
-╰───────────────❀
+╭─♡─「 mᥲі іᥒ𝖿᥆ ─♡─╮
+│ ☁️ Creador: Wirk-sempai
+│ 🌷 Soy tu botcita: *Mai*
+│ ⏳ Tiempo activa: *%muptime*
+│ 📒 Amiguit@s: *%totalreg*
+│ 💫 Versión: *%version*
+│ 📅 Fecha: *%date*
+╰─────────────────────╯
 
 %readmore
-*—̳͟͞͞❀ Gracias por visitarme, jsjs ❀—̳͟͞͞*
+｡ﾟ･:❀ ¡Gracias por invocar a Mai~! ❀:･ﾟ｡
 
-\t\t\t*L I S T A  -  M E N Ú S*
+\t    🧁 *Menú mágico a continuación* 🧁
 `.trimStart(),
-header: '╭──⬣「 *%category* 」⬣',
-body: '│  ≡◦ *%cmd*\n',
-footer: '╰──⬣\n',
-after: '',
+
+  header: '\n╭───୨୧「 *%category* 」୨୧───╮',
+  body: '│ ◦₊˚✧ *%cmd*',
+  footer: '╰───────────────╯\n',
+  after: '',
 }
 
 let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
