@@ -93,16 +93,16 @@ global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo
 }}, { quoted: m }
 
 global.icono = [
-'https://files.catbox.moe/yborww.jpg',
+'https://qu.ax/vmBSN.jpg',
 ].getRandom()
 
   global.rcanal = {
     contextInfo: {
     	isForwarded: true,
     forwardedNewsletterMessageInfo: {
-      newsletterJid: "120363198641161536@newsletter",
+      newsletterJid: "120363402846939411@newsletter",
       serverMessageId: 100,
-      newsletterName: 'KoharuBot-MD - @Alba070503',
+      newsletterName: 'Vivos Vivientes By @Wirk',
     },
 	    externalAdReply: {
 				    showAdAttribution: true,
@@ -111,7 +111,7 @@ global.icono = [
 					mediaUrl: null,
 					description: null,
 					previewType: "PHOTO",
-					thumbnailUrl: 'https://qu.ax/dSqjk.jpg',
+					thumbnailUrl: 'https://qu.ax/vmBSN.jpg',
 		           sourceUrl: 'https://whatsapp.com/channel/0029VaAN15BJP21BYCJ3tH04',
 		           mediaType: 1,
                    renderLargerThumbnail: false
